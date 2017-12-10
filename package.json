@@ -1,6 +1,6 @@
 {
   "name": "koa-db-sqlite",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:lisiur/koa-db-sqlite",
   "author": "lisiurday <lisiurday@gmail.com>",
